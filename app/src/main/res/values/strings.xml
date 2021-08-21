@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="social">Social</string>
+    <string name="google">google</string>
+    <string name="fb">fb</string>
+    <string name="image">image</string>
+    <string name="socialx">SocialX</string>
+    <string name="email_error">Please enter a email address</string>
+    <string name="error_invalid_email" >Invalid email id</string>
+    <string name="password_error">enter password</string>
+    <string name="error_invalid_password">invalid password</string>
+    <string name="phone_error">enter valid mobile number</string>
+</resources>
